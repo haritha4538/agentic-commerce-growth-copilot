@@ -1,0 +1,56 @@
+product_id,product_name,category,sub_category,cost_price,selling_price,launch_date
+PRD0001,Fiction Books #1,Books & Stationery,Fiction,734.5,1303.73,2026-01-05
+PRD0002,Audio Electronics #2,Electronics,Audio,1028.61,1360.82,2025-10-11
+PRD0003,Appliances Home #3,Home & Kitchen,Appliances,1643.32,3034.38,2026-03-07
+PRD0004,Office Supplies Books #4,Books & Stationery,Office Supplies,3421.04,6852.73,2026-08-06
+PRD0005,Womenswear Apparel #5,Apparel,Womenswear,1172.67,2020.45,2026-06-30
+PRD0006,Office Supplies Books #6,Books & Stationery,Office Supplies,2453.51,5557.23,2025-09-03
+PRD0007,Haircare Beauty #7,Beauty & Personal Care,Haircare,1452.32,2343.73,2026-03-15
+PRD0008,Womenswear Apparel #8,Apparel,Womenswear,826.17,2013.05,2025-06-01
+PRD0009,Menswear Apparel #9,Apparel,Menswear,3595.09,8336.91,2026-02-03
+PRD0010,Haircare Beauty #10,Beauty & Personal Care,Haircare,2221.72,5761.17,2026-02-15
+PRD0011,Fitness Sports #11,Sports & Outdoors,Fitness,4076.11,9472.34,2026-05-25
+PRD0012,Cookware Home #12,Home & Kitchen,Cookware,2595.44,3717.87,2025-12-05
+PRD0013,Skincare Beauty #13,Beauty & Personal Care,Skincare,2380.38,4434.32,2026-07-26
+PRD0014,Audio Electronics #14,Electronics,Audio,4325.02,6201.66,2025-10-08
+PRD0015,Audio Electronics #15,Electronics,Audio,435.06,822.98,2025-09-17
+PRD0016,Footwear Apparel #16,Apparel,Footwear,1509.68,2062.6,2026-06-10
+PRD0017,Accessories Electronics #17,Electronics,Accessories,413.3,912.42,2025-11-17
+PRD0018,Cookware Home #18,Home & Kitchen,Cookware,1464.01,2653.32,2025-09-10
+PRD0019,Cookware Home #19,Home & Kitchen,Cookware,637.51,1543.79,2025-06-01
+PRD0020,Audio Electronics #20,Electronics,Audio,2360.53,4570.82,2025-06-13
+PRD0021,Womenswear Apparel #21,Apparel,Womenswear,3545.53,8486.46,2025-12-07
+PRD0022,Skincare Beauty #22,Beauty & Personal Care,Skincare,1552.83,2508.17,2026-07-08
+PRD0023,Appliances Home #23,Home & Kitchen,Appliances,1142.9,1977.17,2026-03-28
+PRD0024,Winterwear Apparel #24,Apparel,Winterwear,361.28,686.07,2026-06-16
+PRD0025,Fitness Sports #25,Sports & Outdoors,Fitness,356.08,526.88,2025-08-06
+PRD0026,Smart Home Electronics #26,Electronics,Smart Home,190.28,293.95,2026-05-26
+PRD0027,Audio Electronics #27,Electronics,Audio,2847.65,4596.48,2025-07-19
+PRD0028,Accessories Electronics #28,Electronics,Accessories,2717.35,6533.23,2026-01-04
+PRD0029,Wearables Electronics #29,Electronics,Wearables,2843.17,4297.64,2026-06-11
+PRD0030,Office Supplies Books #30,Books & Stationery,Office Supplies,3871.39,6312.47,2025-09-18
+PRD0031,Non-Fiction Books #31,Books & Stationery,Non-Fiction,2774.9,7159.37,2025-12-17
+PRD0032,Wearables Electronics #32,Electronics,Wearables,3687.24,6319.63,2026-01-28
+PRD0033,Fitness Sports #33,Sports & Outdoors,Fitness,1091.15,2005.79,2026-02-20
+PRD0034,Skincare Beauty #34,Beauty & Personal Care,Skincare,489.77,655.7,2026-04-20
+PRD0035,Storage Home #35,Home & Kitchen,Storage,869.87,1950.89,2025-06-09
+PRD0036,Office Supplies Books #36,Books & Stationery,Office Supplies,3362.82,5758.15,2025-07-25
+PRD0037,Fiction Books #37,Books & Stationery,Fiction,698.21,1038.12,2026-02-17
+PRD0038,Team Sports Sports #38,Sports & Outdoors,Team Sports,902.31,1768.06,2025-07-24
+PRD0039,Fiction Books #39,Books & Stationery,Fiction,222.12,575.52,2025-06-02
+PRD0040,Haircare Beauty #40,Beauty & Personal Care,Haircare,702.06,1731.63,2025-07-11
+PRD0041,Non-Fiction Books #41,Books & Stationery,Non-Fiction,2854.8,4725.1,2026-01-22
+PRD0042,Fitness Sports #42,Sports & Outdoors,Fitness,2736.37,4605.81,2025-10-30
+PRD0043,Fragrance Beauty #43,Beauty & Personal Care,Fragrance,229.0,475.04,2026-06-03
+PRD0044,Audio Electronics #44,Electronics,Audio,3951.41,6439.87,2026-02-28
+PRD0045,Skincare Beauty #45,Beauty & Personal Care,Skincare,1873.32,4085.54,2026-01-30
+PRD0046,Fragrance Beauty #46,Beauty & Personal Care,Fragrance,2616.18,5980.45,2026-04-12
+PRD0047,Fiction Books #47,Books & Stationery,Fiction,2388.44,3143.69,2025-12-02
+PRD0048,Smart Home Electronics #48,Electronics,Smart Home,2413.0,4416.63,2026-07-19
+PRD0049,Smart Home Electronics #49,Electronics,Smart Home,1868.28,4086.59,2026-06-27
+PRD0050,Cookware Home #50,Home & Kitchen,Cookware,4332.74,6637.65,2026-03-28
+PRD0051,Winterwear Apparel #51,Apparel,Winterwear,4119.73,6491.84,2026-06-13
+PRD0052,Storage Home #52,Home & Kitchen,Storage,3340.7,8157.57,2026-03-12
+PRD0053,Storage Home #53,Home & Kitchen,Storage,3376.47,7598.67,2026-01-14
+PRD0054,Fragrance Beauty #54,Beauty & Personal Care,Fragrance,2629.21,3775.54,2026-05-09
+PRD0055,Office Supplies Books #55,Books & Stationery,Office Supplies,3621.72,5178.41,2026-06-16

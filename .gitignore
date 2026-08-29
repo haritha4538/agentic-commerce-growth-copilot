@@ -1,0 +1,30 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+.pytest_cache/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Vector store (regenerated from knowledge_base/policies on ingest)
+knowledge_base/chroma_store/
+
+# User-uploaded data (not for version control)
+data/uploads/*
+!data/uploads/.gitkeep
+
+# OS / editor
+.DS_Store
+.vscode/
+*.swp
+
+# Logs
+*.log

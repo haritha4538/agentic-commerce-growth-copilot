@@ -1,0 +1,16 @@
+# --- Phase 1: Data layer (needed now) ---
+pandas>=2.2
+numpy>=1.26
+python-dotenv>=1.0
+pytest>=8.0
+
+# --- Phase 2-3: Analytics + Dashboard ---
+streamlit>=1.38
+plotly>=5.24
+
+# --- Phase 4-7: RAG + LLM + Agents + Validation ---
+langgraph>=0.2
+langchain-core>=0.3
+google-genai>=0.3
+chromadb>=0.5
+pydantic>=2.8
