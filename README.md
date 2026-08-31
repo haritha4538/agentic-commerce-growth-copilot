@@ -128,11 +128,11 @@ Validates report completeness, structure, and citations before presenting result
 
 ### Growth Signals
 
-![Growth Signals](screenshots/growth_signals.png)
+![Growth Signals](screenshots/growth signals.png)
 
 ### AI Strategy Center
 
-![AI Strategy Center](screenshots/strategy_center.png)
+![AI Strategy Center](screenshots/ai strategy.png)
 
 ---
 
