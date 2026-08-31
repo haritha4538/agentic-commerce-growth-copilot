@@ -132,7 +132,7 @@ Validates report completeness, structure, and citations before presenting result
 
 ### AI Strategy Center
 
-![AI Strategy Center](screenshots/aistartegy.PNG)
+![AI Strategy Center](screenshots/aistartegy.png)
 
 ---
 
