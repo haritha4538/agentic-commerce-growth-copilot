@@ -140,7 +140,7 @@ Validates report completeness, structure, and citations before presenting result
 
 YouTube Demo:
 
-https://youtu.be/QhlYNA79sGc?si=l1JhKfTIcW9x4I-J
+https://youtu.be/fU32EqSMTKI?si=zXBg_ThTssMruKL1
 
 ---
 
