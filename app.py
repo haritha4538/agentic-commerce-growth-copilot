@@ -414,10 +414,7 @@ with st.sidebar:
 
         st.caption(f"Source: {st.session_state.data_source or 'unknown'}")
 
-    st.divider()
-    st.caption("Agentic Commerce Growth Copilot — Track: AI Growth & Agentic Commerce")
-    st.caption("Analytics tabs are deterministic (pandas). AI Strategy Center runs the LangGraph agent pipeline on demand.")
-
+    
 
 # ==========================================================================
 # MAIN HEADER
