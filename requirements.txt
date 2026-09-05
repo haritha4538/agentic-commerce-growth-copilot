@@ -14,3 +14,4 @@ langchain-core>=0.3
 google-genai>=0.3
 chromadb>=0.5
 pydantic>=2.8
+razorpay>=1.4
