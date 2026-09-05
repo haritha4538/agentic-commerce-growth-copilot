@@ -1,6 +1,6 @@
-# 🚀 Agentic Commerce Growth Copilot
+# Agentic Commerce Growth Copilot
 
-An AI-powered business decision-support system that transforms commerce data into actionable growth strategies using Analytics, Retrieval-Augmented Generation (RAG), Gemini, and a LangGraph multi-agent workflow.
+An AI-powered business decision-support system that transforms commerce data into actionable growth strategies using Analytics, Retrieval-Augmented Generation (RAG), Gemini, LangGraph, and Razorpay Test Mode integration.
 
 ---
 
@@ -18,7 +18,7 @@ Business owners need actionable recommendations rather than just raw analytics.
 
 Agentic Commerce Growth Copilot combines deterministic analytics with AI-powered strategy generation.
 
-The system analyzes business performance, retrieves relevant policy knowledge, generates strategic recommendations, and validates outputs before presenting them to users.
+The system analyzes business performance, retrieves relevant policy knowledge, generates strategic recommendations, validates outputs, and enables approved business actions through a commerce execution layer.
 
 The result is a transparent, explainable, and actionable business intelligence platform.
 
@@ -27,13 +27,16 @@ The result is a transparent, explainable, and actionable business intelligence p
 ## ✨ Key Features
 
 ### 📊 Analytics Dashboard
+
 - Revenue Analytics
 - Customer Analytics
 - Product Performance Analysis
 - Growth Metrics
 - Interactive Visualizations
+- Revenue Trend Analysis
 
 ### 📈 Growth Signal Engine
+
 - Seasonal Opportunity Detection
 - Revenue Growth Signals
 - Customer Retention Signals
@@ -41,6 +44,7 @@ The result is a transparent, explainable, and actionable business intelligence p
 - Rule-Based Business Insights
 
 ### 🤖 AI Strategy Center
+
 - Multi-Agent Workflow
 - AI-Generated Business Recommendations
 - Executive Summary Generation
@@ -51,15 +55,25 @@ The result is a transparent, explainable, and actionable business intelligence p
 - Recommended Actions
 
 ### 🔍 RAG-Powered Knowledge Retrieval
+
 - Policy-Aware Recommendations
 - Context Grounding
 - Citation-Based Responses
 
 ### ✅ Validation Layer
+
 - Citation Validation
 - Report Structure Validation
 - Output Quality Checks
 - Hallucination Detection
+
+### 💳 Commerce Action Center
+
+- Merchant Approval Workflow
+- Razorpay Test Mode Integration
+- Payment Link Generation
+- Payment Status Tracking
+- Audit Trail Logging
 
 ---
 
@@ -75,18 +89,26 @@ Strategy Agent (Gemini)
 Validator Agent
       ↓
 Final Strategy Report
+      ↓
+Commerce Action Center
+      ↓
+Razorpay Test Payment Link
 ```
 
 ### Analytics Agent
+
 Processes commerce data and generates business insights.
 
 ### Retrieval Agent
+
 Retrieves relevant policy and knowledge-base context using ChromaDB.
 
 ### Strategy Agent
-Uses Gemini to generate strategic recommendations grounded in retrieved knowledge.
+
+Uses Gemini AI to generate strategic recommendations grounded in retrieved knowledge.
 
 ### Validator Agent
+
 Validates report completeness, structure, and citations before presenting results.
 
 ---
@@ -94,24 +116,34 @@ Validates report completeness, structure, and citations before presenting result
 ## 🛠️ Tech Stack
 
 ### Frontend
+
 - Streamlit
 
 ### Data Processing
+
 - Pandas
 - NumPy
 
 ### Visualization
+
 - Plotly
 
 ### AI & Agents
+
 - LangGraph
 - Google Gemini
 
 ### Knowledge Base
+
 - ChromaDB
-- RAG
+- Retrieval-Augmented Generation (RAG)
+
+### Payments
+
+- Razorpay Test Mode
 
 ### Backend
+
 - Python
 
 ---
@@ -132,7 +164,15 @@ Validates report completeness, structure, and citations before presenting result
 
 ### AI Strategy Center
 
-![AI Strategy Center](screenshots/aistartegy.PNG)
+![AI Strategy Center](screenshots/aistrategy.PNG)
+
+### Commerce Action Center
+
+![Commerce Action Center](screenshots/commerceactioncenter.PNG)
+
+### Razorpay Test Payment Flow
+
+![Razorpay Payment](screenshots/razorpaytestpayment.PNG)
 
 ---
 
@@ -157,7 +197,8 @@ https://agentic-commerce-growth-copilot-fjugxhaydzbmndyxws39kf.streamlit.app/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/agentic-commerce-growth-copilot.git
+git clone https://github.com/haritha4538/agentic-commerce-growth-copilot.git
+
 cd agentic-commerce-growth-copilot
 ```
 
@@ -187,6 +228,9 @@ Create a `.env` file:
 
 ```env
 GEMINI_API_KEY=your_api_key_here
+
+RAZORPAY_KEY_ID=rzp_test_xxxxxxxx
+RAZORPAY_KEY_SECRET=xxxxxxxx
 ```
 
 ### Run Application
@@ -197,14 +241,42 @@ streamlit run app.py
 
 ---
 
+## 📂 Project Structure
+
+```text
+agentic-commerce-growth-copilot/
+│
+├── app.py
+├── requirements.txt
+├── README.md
+│
+├── data/
+├── screenshots/
+├── scripts/
+│
+├── src/
+│   ├── analytics/
+│   ├── commerce/
+│   ├── data/
+│   ├── orchestration/
+│   ├── rag/
+│   └── validators/
+│
+└── knowledge_base/
+```
+
+---
+
 ## 📈 Future Enhancements
 
-- Merchant-specific personalization
-- Real-time analytics
-- Predictive forecasting
-- Automated strategy execution
-- Multi-LLM support
-- Advanced business simulation engine
+- AI-Powered Upsell Recommendations
+- AI-Powered Cross-Sell Recommendations
+- Merchant-Specific Personalization
+- Real-Time Analytics
+- Predictive Forecasting
+- Automated Strategy Execution
+- Multi-LLM Support
+- Advanced Business Simulation Engine
 
 ---
 
@@ -229,3 +301,5 @@ B.Tech CSE
 Dadi Institute of Engineering & Technology
 
 GitHub: https://github.com/haritha4538
+
+---
