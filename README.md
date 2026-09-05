@@ -172,7 +172,7 @@ Validates report completeness, structure, and citations before presenting result
 
 ### Razorpay Test Payment Flow
 
-![Razorpay Payment](screenshots/razorpaytestpayment.PNG)
+![Razorpay Payment](screenshots/raorpaytestpayment.PNG)
 
 ---
 
